@@ -7,7 +7,7 @@ import ipConfig from "./ipConfig.json";
 import {Switch,Route} from "react-router-dom";
 
 export const config = {
-  endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
+  endpoint: `https://qkart-frontend-5fef.onrender.com`,
 };
 
 function App() {
