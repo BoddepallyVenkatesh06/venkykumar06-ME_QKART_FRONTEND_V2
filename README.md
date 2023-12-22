@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <h2><a  href="https://venkykumar06-me-qkart-frontend-v2.vercel.app/">Live Preview 👉</a></h2>
+<h2><a href="https://venkykumar06-me-qkart-frontend-v2.vercel.app/" target="_blank">Live Preview 👉</a></h2>
   <hr>
   <P>USERNAME:--testuser</P>
   <P>PASSWORD:--123456</P>
